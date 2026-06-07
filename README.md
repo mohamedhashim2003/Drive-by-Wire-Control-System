@@ -40,8 +40,4 @@ The PyQt5-based control panel provides a high-speed serial interface to visualiz
     ```
 4.  **Run:** Execute `python throttle_gui.py`, select your COM port, and click **Connect**.
 
-## 👥 Contributors
-*   **Mohamed Khaled Hashim** – Systems Architecture & Control Logic
-*   **Ahmed Essam** – PID Tuning & Response Analysis
-*   **Abdullah Elsayed Kandeel** – Mechanical Design (3D Printing)
-*   **Ibrahim Hamza** – Simulation & Testing
+
